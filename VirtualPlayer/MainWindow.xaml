@@ -5,11 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:VirtualPlayer"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525" WindowStyle="None" AllowsTransparency="True">
-    <Window.Background>
-        <SolidColorBrush Opacity="0" Color="Transparent"/>
-    </Window.Background>
+        Title="Virtual Player" Height="350" Width="525">
     <Grid>
-        
+        <ContentControl />
     </Grid>
 </Window>
