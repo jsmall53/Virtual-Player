@@ -1,0 +1,15 @@
+D:\git\VirtualPlayer\VirtualPlayer\bin\Debug\VirtualPlayer.exe.config
+D:\git\VirtualPlayer\VirtualPlayer\bin\Debug\VirtualPlayer.exe
+D:\git\VirtualPlayer\VirtualPlayer\bin\Debug\VirtualPlayer.pdb
+D:\git\VirtualPlayer\VirtualPlayer\obj\Debug\VirtualPlayer.csprojResolveAssemblyReference.cache
+D:\git\VirtualPlayer\VirtualPlayer\obj\Debug\MainWindow.g.cs
+D:\git\VirtualPlayer\VirtualPlayer\obj\Debug\App.g.cs
+D:\git\VirtualPlayer\VirtualPlayer\obj\Debug\VirtualPlayer_MarkupCompile.cache
+D:\git\VirtualPlayer\VirtualPlayer\obj\Debug\VirtualPlayer_MarkupCompile.lref
+D:\git\VirtualPlayer\VirtualPlayer\obj\Debug\MainWindow.baml
+D:\git\VirtualPlayer\VirtualPlayer\obj\Debug\VirtualPlayer.g.resources
+D:\git\VirtualPlayer\VirtualPlayer\obj\Debug\VirtualPlayer.Properties.Resources.resources
+D:\git\VirtualPlayer\VirtualPlayer\obj\Debug\VirtualPlayer.csproj.GenerateResource.Cache
+D:\git\VirtualPlayer\VirtualPlayer\obj\Debug\VirtualPlayer.csproj.CoreCompileInputs.cache
+D:\git\VirtualPlayer\VirtualPlayer\obj\Debug\VirtualPlayer.exe
+D:\git\VirtualPlayer\VirtualPlayer\obj\Debug\VirtualPlayer.pdb
