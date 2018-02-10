@@ -1,7 +1,8 @@
 ﻿using Microsoft.Practices.Unity;
 using Prism.Unity;
-using VirtualPlayer;
+using VirtualPlayer.Views;
 using System.Windows;
+using Prism.Modularity;
 
 namespace VirtualPlayer
 {
